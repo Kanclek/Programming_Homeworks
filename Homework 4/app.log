@@ -1,0 +1,30 @@
+DEBUG:Logging1:Create Calculator instance
+INFO:Logging1:Reading File
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: 45 + 78
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: 98 / 4
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: 45 * 6
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: 98 - 4
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: 99 / 0
+ERROR:Logging1:Deviding by zero on 5 line
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: 87 + 0
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: sin(5)
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: cos(78)
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: log(-2)
+ERROR:Logging1:Value Error on 9 line
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: log(3.75)
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: argsin(32)
+ERROR:Logging1:Operation is not implemented on 11 line
+INFO:Logging1:Start calculation in File
+DEBUG:Logging1:Calculating text: asfrs(32)
+ERROR:Logging1:Operation is not implemented on 12 line
